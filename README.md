@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Macury/Result-summary)
-- Live Site URL: [Add live site URL here](https://macury.github.io/Result-summary/)
+- Solution URL: [Solution URL](https://github.com/Macury/Result-summary)
+- Live Site URL: [Live site URL](https://macury.github.io/Result-summary/)
 
 
 ### Built with
