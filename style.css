@@ -124,6 +124,10 @@ button{
   padding: 14px;
   width: 100%;
 }
+button:hover{
+  background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
 .attribution{
   margin: 30px 0;
   margin-bottom: 50px;
